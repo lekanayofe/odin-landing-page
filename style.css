@@ -132,3 +132,38 @@ a{
     text-align: end;
     font-weight: bold;
 }
+
+
+
+
+.cta-section{
+    padding: 150px 300px;
+}
+
+.cta-box{
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    padding: 50px 150px;
+}
+
+.cta-text{
+    /* padding: 100px 300px; */
+}
+
+.main-cta-text{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.cta-section button{
+    color: #E5E7EB;
+    border: solid 2px #F9FAF8;
+    border-radius: 5px;
+    background-color: #3882F6;
+    padding: 0px 50px;   
+ 
+}
