@@ -164,6 +164,14 @@ a{
     border: solid 2px #F9FAF8;
     border-radius: 5px;
     background-color: #3882F6;
-    padding: 0px 50px;   
+    padding: 1px 50px;   
  
+}
+
+
+.footer{
+    text-align: center;
+    color: #E5E7EB;
+    background-color: #1F2937;
+    padding: 50px;
 }
