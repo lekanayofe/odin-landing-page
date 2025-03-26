@@ -112,3 +112,23 @@ a{
     height: 150px;
     margin-bottom: 10px;
 }
+
+
+.quotes-section{
+    background-color: #E5E7EB;
+    padding: 100px 450px;
+}
+
+.main-quotes{
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: light;
+    font-style: italic;
+    text-align: justify;
+    
+}
+
+.citation{
+    text-align: end;
+    font-weight: bold;
+}
